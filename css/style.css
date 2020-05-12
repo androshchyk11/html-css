@@ -1,0 +1,62 @@
+.tag1 {
+    color: red;
+}
+
+#tag2 {
+    float: right;
+}
+
+.image {
+    width: 200px;
+    height: 200px;
+    padding: 20px;
+    border: red;
+    border-width: 5px;
+}
+
+.tag3 {
+    color: blue;
+    margin: auto;
+}
+
+.tag4 {
+    color: gray;
+}
+
+.tag5 {
+    color: green;
+}
+
+.tag6 {
+    color: hotpink;
+}
+
+.text_with_span {
+    align-self: start;
+    color: purple;
+}
+
+.some_span {
+    font-size: 200%;
+    font-family: serif;
+    empty-cells: show;
+    position: relative;
+    color: orange;
+    text-align: right;
+}
+
+.link {
+    size: 4cm;
+    outline-color: black;
+}
+
+.just_button:active {
+    background-color: red;
+    margin-top: 5px;
+    margin-left: 5px;
+    margin-bottom: 5px;
+}
+
+#text {
+    columns: 60;
+}
